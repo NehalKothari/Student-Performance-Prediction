@@ -43,3 +43,9 @@ streamlit run app.py
  Author
 
 Nehal Kothari
+
+ Project Demo
+
+![Home Screen](assets/screenshot1.png)
+![Prediction](assets/screenshot2.png)
+
