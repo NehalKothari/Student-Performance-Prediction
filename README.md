@@ -24,22 +24,22 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## ML Approach
+ ML Approach
 
 * Data preprocessing and feature selection
 * Model training using Decision Tree Regressor
 * Performance evaluation using R² Score
 
-## Insights
+ Insights
 
 * Internal marks (G1, G2) strongly influence final marks
 * Behavioral features have moderate impact
 
-## Use Case
+ Use Case
 
 * Academic performance prediction
 * Educational analytics
 
-## Author
+ Author
 
 Nehal Kothari
